@@ -1,0 +1,1 @@
+Sample Test file to check the pull command: from GITHUB Repo to Loca repo.
